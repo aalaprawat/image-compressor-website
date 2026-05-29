@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aalaprawat.github.io/image-compressor-website/sitemap.xml
