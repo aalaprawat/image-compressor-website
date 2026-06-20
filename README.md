@@ -42,7 +42,7 @@ Use the repository root because this is now a standalone static website repo.
 
 ## Update Before Publishing
 
-- Google Play link: replace `href="#"` for the “Coming soon on Google Play” buttons in `index.html`.
+- Google Play link: update the Play Store URL in `index.html` if the app package or listing changes.
 - Support email: update `hello.frostbyte@gmail.com` in `privacy-policy.html`, `terms.html`, and `contact.html` if needed.
 - Privacy policy placeholders: review the draft notice, effective date, app name, developer name, Firebase disclosures, and contact email in `privacy-policy.html`.
 - Sitemap and robots: already use `https://aalaprawat.github.io/image-compressor-website/`; update them only if the repository name changes.
