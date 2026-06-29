@@ -9,6 +9,7 @@ Static GitHub Pages website for **Image Compressor: MB to KB** by FrostByte Labs
 - `terms.html` simple Terms of Use
 - `contact.html` support page
 - `404.html` themed not-found page
+- SEO landing pages for image compression searches
 - `assets/` app icon, favicon, onboarding bear assets, website hero banner, and optimized infographics
 - `css/styles.css` responsive Material-inspired theme
 - `js/main.js` mobile navigation and light/dark theme toggle
